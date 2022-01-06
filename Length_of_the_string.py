@@ -3,7 +3,7 @@ def len_s(s):
     count = 0
     for i in s:
         count += 1 
-    return count
+    return count+1
         
 a = "Vamsi"
 print(len_s(a))
